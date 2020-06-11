@@ -1,6 +1,6 @@
 '''
 Slicing and dicing
-100xp
+
 Selecting single values from a list is just one part of the story. It's also possible to slice your
 list, which means selecting multiple elements from your list. Use the following syntax:
 

@@ -1,6 +1,6 @@
 '''
 Create a list
-100xp
+
 As opposed to int, bool etc., a list is a compound data type; you can group values together:
 
 a = "is"

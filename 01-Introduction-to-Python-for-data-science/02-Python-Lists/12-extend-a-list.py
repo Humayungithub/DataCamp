@@ -1,6 +1,6 @@
 '''
 Extend a list
-100xp
+
 If you can change elements in a list, you sure want to be able to add elements to it, right?
 You can use the + operator:
 

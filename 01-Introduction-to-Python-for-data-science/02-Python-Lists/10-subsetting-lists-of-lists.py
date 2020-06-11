@@ -1,6 +1,6 @@
 '''
 Subsetting lists of lists
-50xp
+
 You saw before that a Python list can contain practically anything; even other lists! To subset
 lists of lists, you can use the same technique as before: square brackets. Try out the commands
 in the following code sample in the IPython Shell:

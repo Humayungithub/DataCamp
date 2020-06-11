@@ -1,6 +1,6 @@
 '''
 2D Arithmetic
-100xp
+
 Remember how you calculated the Body Mass Index for all baseball players?
 numpy was able to perform all calculations element-wise (i.e. element by element).
 For 2D numpy arrays this isn't any different! You can combine matrices with single

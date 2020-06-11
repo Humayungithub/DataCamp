@@ -1,6 +1,6 @@
 '''
 NumPy Side Effects
-50xp
+
 As Filip explained before, numpy is great for doing vector arithmetic. If you compare its
 functionality with regular Python lists, however, some things have changed.
 

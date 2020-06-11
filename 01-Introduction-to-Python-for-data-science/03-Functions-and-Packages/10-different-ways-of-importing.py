@@ -1,6 +1,6 @@
 '''
 Different ways of importing
-50xp
+
 There are several ways to import packages and modules into Python.
 Depending on the import call, you'll have to use different Python code.
 

@@ -1,6 +1,6 @@
 '''
 Multiple arguments
-100xp
+
 In the previous exercise, the square brackets around imag in the documentation showed us that the
 imag argument is optional. But Python also uses a different way to tell users about arguments being
 optional.

@@ -1,6 +1,6 @@
 '''
 Calculations with variables
-100xp
+
 Remember how you calculated the money you ended up with after 7 years of investing $100? You did something like this:
 
 100 * 1.10 ** 7

@@ -1,6 +1,6 @@
 '''
 Average versus median
-100xp
+
 You now know how to use numpy functions to get a better feeling for your data.
 It basically comes down to importing numpy and then calling several simple functions
 on the numpy arrays:

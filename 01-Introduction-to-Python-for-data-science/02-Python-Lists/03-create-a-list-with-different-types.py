@@ -1,6 +1,6 @@
 '''
 Create list with different types
-100xp
+
 A list can contain any Python type. Although it's not really common, a list can also contain a mix
 of Python types including strings, floats, booleans, etc.
 

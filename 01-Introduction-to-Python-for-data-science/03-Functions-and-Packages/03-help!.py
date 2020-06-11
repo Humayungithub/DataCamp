@@ -1,6 +1,6 @@
 '''
 Help!
-50xp
+
 Maybe you already know the name of a Python function, but you still have to figure out how to use
 it. Ironically, you have to ask for information about a function with another function: help().
 In IPython specifically, you can also use ? before the function name.

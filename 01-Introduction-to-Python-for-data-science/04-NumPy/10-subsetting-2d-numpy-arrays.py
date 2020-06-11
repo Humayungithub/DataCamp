@@ -1,6 +1,6 @@
 '''
 Subsetting 2D NumPy Arrays
-100xp
+
 If your 2D numpy array has a regular structure, i.e. each row and column has a
 fixed number of values, complicated ways of subsetting become very easy.
 Have a look at the code below where the elements "a" and "c" are extracted

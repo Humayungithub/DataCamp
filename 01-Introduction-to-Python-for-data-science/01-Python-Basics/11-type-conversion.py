@@ -1,6 +1,6 @@
 '''
 Type conversion
-100xp
+
 Using the + operator to paste together two strings can be very useful in building custom messages.
 
 Suppose, for example, that you've calculated the return of your investment and want to summarize

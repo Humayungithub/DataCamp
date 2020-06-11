@@ -1,6 +1,6 @@
 '''
 Select the valid list
-50xp
+
 A list can contain any Python type. But a list itself is also a Python type. That means that a list can also contain a list! Python is getting funkier by the minute, but fear not, just remember the list syntax:
 
 my_list = [el1, el2, el3]

@@ -1,6 +1,6 @@
 '''
 Replace list elements
-100xp
+
 Replacing list elements is pretty easy. Simply subset the list and assign new values to the subset.
 You can select single elements or you can change entire list slices at once.
 

@@ -1,6 +1,6 @@
 '''
 List of lists
-100xp
+
 As a data scientist, you'll often be dealing with a lot of data, and it will make sense to group
 some of this data.
 

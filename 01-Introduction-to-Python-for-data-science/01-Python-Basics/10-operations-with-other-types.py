@@ -1,6 +1,6 @@
 '''
 Operations with other types
-100xp
+
 Filip mentioned that different types behave differently in Python.
 
 When you sum two strings, for example, you'll get different behavior than when you sum two integers or two booleans.

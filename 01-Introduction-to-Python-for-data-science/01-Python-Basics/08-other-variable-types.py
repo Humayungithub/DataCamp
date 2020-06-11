@@ -1,6 +1,6 @@
 '''
 Other variable types
-100xp
+
 In the previous exercise, you worked with two Python data types:
 
 int, or integer: a number without a fractional part. savings, with the value 100, is an example of an integer.

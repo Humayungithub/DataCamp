@@ -1,6 +1,6 @@
 '''
 Delete list elements
-50xp
+
 Finally, you can also remove elements from your list. You can do this with the del statement:
 
 x = ["a", "b", "c", "d"]

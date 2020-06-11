@@ -1,6 +1,6 @@
 '''
 Subset and calculate
-100xp
+
 After you've extracted values from a list, you can use them to perform additional calculations.
 Take this example, where the second and fourth element of a list x are extracted. The strings that
 result are pasted together using the + operator:

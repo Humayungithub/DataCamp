@@ -1,6 +1,6 @@
 '''
 Familiar functions
-100xp
+
 Out of the box, Python offers a bunch of built-in functions to make your life as a data scientist
 easier. You already know two such functions: print() and type(). You've also used the functions
 str(), int(), bool() and float() to switch between data types. These are built-in functions as well.

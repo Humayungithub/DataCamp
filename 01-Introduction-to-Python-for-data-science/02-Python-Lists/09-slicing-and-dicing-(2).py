@@ -1,6 +1,6 @@
 '''
 Slicing and dicing (2)
-100xp
+
 In the video, Filip first discussed the syntax where you specify both where to begin and end the
 slice of your list:
 

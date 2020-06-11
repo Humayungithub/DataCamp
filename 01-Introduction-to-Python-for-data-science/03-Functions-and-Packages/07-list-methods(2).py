@@ -1,6 +1,6 @@
 '''
 List Methods (2)
-100xp
+
 Most list methods will change the list they're called on. Examples are:
 
 append(), that adds an element to the list it is called on,

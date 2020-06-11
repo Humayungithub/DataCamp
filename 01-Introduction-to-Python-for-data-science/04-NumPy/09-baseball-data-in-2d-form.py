@@ -1,6 +1,6 @@
 '''
 Baseball data in 2D form
-100xp
+
 You have another look at the MLB data and realize that it makes more sense to
 restructure all this information in a 2D numpy array. This array should have
 1015 rows, corresponding to the 1015 baseball players you have information on, 
